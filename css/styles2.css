@@ -1,0 +1,30 @@
+body{
+  background-color: #74DDFE;
+  font-family: 'Rakkas', cursive;
+}
+
+h1{
+  font-size: 75px;
+  text-align: center;
+}
+
+h2{
+  font-weight: bold;
+  text-align: center;
+}
+
+p{
+  font-size: 20px;
+}
+
+a{
+  color: grey;
+}
+
+a:hover {
+  color: purple;
+}
+
+ul{
+  list-style: none;
+}
